@@ -1,0 +1,2 @@
+serviceClass: anagram.client.SecurityService
+path: 510A634DFA69ABD629A6F162560FE26C.gwt.rpc

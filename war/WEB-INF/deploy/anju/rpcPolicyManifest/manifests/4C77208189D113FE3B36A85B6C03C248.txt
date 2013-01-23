@@ -1,0 +1,2 @@
+serviceClass: anagram.client.GreetingService
+path: EAF3F2306B23CC8E382B816051A499CE.gwt.rpc
